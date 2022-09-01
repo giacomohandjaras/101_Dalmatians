@@ -26,5 +26,4 @@ Matlab functions needed to perform all the analyses.<br>
 <br>
 <br>
 More details are available in the preprint: https://www.biorxiv.org/content/10.1101/2022.03.14.484231v1<br>
-For fMRI data, please refer to OSF: https://osf.io/j8x6h/<br>
 
