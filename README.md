@@ -4,14 +4,6 @@
 Brief description of the directories<br>
 <br>
 ##########################################<br>
-fMRI_101_Dalmatians/<br>
-Directory contains preprocessed fMRI timeseries elicited by the live action movie 101 Dalmatians acquired in five groups of individuals (3 tipically developed, deaf and blind participants)<br>
-<br>
-##########################################<br>
-fMRI_Scrambled_Movie/<br>
-Directory contains preprocessed fMRI timeseries elicited by a short scrambled version of the movie<br>
-<br>
-##########################################<br>
 Computational_Models/Full_Models/Original/<br>
 Sets of features extracted through computational modeling from the movie. Movie-related features fall into two categories: 
 i) low-level acoustic and visual features; and ii) high-level semantic descriptors. 
