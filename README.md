@@ -1,7 +1,5 @@
 # 101_Dalmatians
-
-##########################################<br>
-Brief description of the directories<br>
+Brief description of the directories:<br>
 <br>
 ##########################################<br>
 <i>Computational_Models/Full_Models/Original/</i><br>
