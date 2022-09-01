@@ -22,7 +22,7 @@ The directory contains brain masks, ISC onegroup, ISC between groups, Mediation,
 <br>
 ##########################################<br>
 <i>Code/</i><br>
-Matlab functions needed to perform all the analyses<br>
+Matlab functions needed to perform all the analyses.<br>
 <br>
 <br>
 More details are available in the preprint: https://www.biorxiv.org/content/10.1101/2022.03.14.484231v1<br>
